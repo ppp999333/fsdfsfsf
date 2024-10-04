@@ -1,0 +1,5 @@
+c1 = input()
+c2 = input()
+c3 = input()
+c4 = 15000-int(c1)-int(c2)-int(c3)
+print(c4)
